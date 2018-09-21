@@ -1,0 +1,56 @@
+body{background:linear-gradient(to bottom right,white,#bcbdc4);
+height:625px;}
+.headerx{
+	position:fixed;
+	width:100%;
+	height:670px;
+	top:0;
+	left:0;
+	color:white;
+	z-index:7;
+	font-family:verdana;
+	-webkit-box-shadow:0 3px 8px rgba(0,0,0,.25);
+}
+.header{
+	position:fixed;
+	width:800px;
+	height:670px;
+	background:black;
+	top:0;
+	left:0;
+	color:white;
+	z-index:7;
+	font-family:verdana;
+}
+#form0{left:175px;
+font-size:55px;
+height:70px;
+width:400px;
+top:10px;
+}
+#form1{left:175px;
+font-size:20px;
+height:70px;
+width:300px;
+top:80px;
+}
+#img1{left:100px;
+height:50px;
+width:110px;
+top:100px;
+}
+.bodyx{position:fixed;
+	left:800px;
+	top:0;
+	width:100%;
+	height:670px;
+	background:brown;
+    
+}
+
+#form3{left:850px;
+top:100px;
+font-size:50px;
+height:80px;
+width:200px;
+}
